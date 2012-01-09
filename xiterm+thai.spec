@@ -1,12 +1,12 @@
 Summary:	Thai XITERM - VT102 emulator for X Window System with Thai support
 Summary(pl.UTF-8):	Tajski XITERM - emulator VT102 dla systemu X Window z obsługą języka tajskiego
 Name:		xiterm+thai
-Version:	1.09
+Version:	1.10
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://linux.thai.net/pub/thailinux/software/xiterm+thai/%{name}-%{version}.tar.gz
-# Source0-md5:	7d3662c8604ec599a184f392a613bc8d
+# Source0-md5:	f0c47e52cbf9158e033533181698726b
 URL:		http://linux.thai.net/
 BuildRequires:	pkgconfig
 BuildRequires:	xorg-lib-libX11-devel
